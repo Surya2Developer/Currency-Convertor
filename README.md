@@ -6,4 +6,4 @@ Different countries use different currency, and there is daily variation in thes
 
 This simple feature allows users to enter amount to be converted (say currency in Dollars), and display the converted amount (say currency in Indian Rupee).
 
-![alt text](/out/production/currency-converter-in-java-master/capture.PNG
+![alt text](/out/production/currency-converter-in-java-master/Capture.PNG
