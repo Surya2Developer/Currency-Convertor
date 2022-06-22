@@ -8,5 +8,6 @@ This simple feature allows users to enter amount to be converted (say currency i
 
 ![alt text](/out/production/currency-converter-in-java-master/Capture.jpg
 
+OUTPUT:
 
 ![Capture](https://user-images.githubusercontent.com/93299213/174926631-579ba7fb-4ab6-4822-a7f9-4246fa2db06f.jpg)
